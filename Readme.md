@@ -14,6 +14,6 @@
                               //La calificacion se cuenta Como grupal no individual y el chang puede preguntar partes
                               // a cada integrante para saber si si participaron o no.
                               //// ENTRE MAS INTEGRANTES EN EL EQUIPO , MAS VA A PEDIR  CHANG ////
-
+                              alggogasofaosf
                             ]
                           }
